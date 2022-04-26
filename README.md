@@ -1,4 +1,4 @@
-IGN Code Foo Frontend Application
+###IGN Code Foo Frontend Application
 
 Files required for app to run properly:
 -index.html
