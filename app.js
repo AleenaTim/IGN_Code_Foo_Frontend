@@ -2,7 +2,6 @@ var vidUrl = [];
 var vidThumbnail = [];
 var vidTitle = [];
 var vidDescription = [];
-var playlistComplete = 0;
 runApp();
 
 function runApp() {
@@ -112,7 +111,6 @@ function runApp() {
 
       function nextVideo() {
         listVideo[vidPlaying].classList.remove("active");
-
         if (vidPlaying < vidUrl.length - 1) {
           skipBackward.classList.remove("noClick");
           clearInterval(timer);
@@ -122,30 +120,18 @@ function runApp() {
           skipBackward.classList.add("noClick");
           skipForward.classList.remove("noClick");
         }
-
-        if (vidPlaying == vidUrl.length - 1) {
-          skipForward.classList.add("noClick");
-        }
         setVid();
       }
 
       function previousVideo() {
+        listVideo[vidPlaying].classList.remove("active");
         if (vidPlaying > 0) {
-          listVideo[vidPlaying].classList.remove("active");
           vidPlaying--;
-          listVideo[vidPlaying].classList.add("active");
-          mainVideo.src = vidUrl[vidPlaying];
-          mainVideo.poster = vidThumbnail[vidPlaying];
-          title.innerHTML = vidTitle[vidPlaying];
-          description.innerHTML = vidDescription[vidPlaying];
-          vidNumOut.innerHTML =
-            "Video Playlist: " + (vidPlaying + 1) + " / " + vidUrl.length;
-          skipForward.classList.remove("noClick");
-          playPause();
         }
-        if (vidPlaying == 0) {
+        else {
           skipBackward.classList.add("noClick");
         }
+        setVid();
       }
 
       function setVid() {
