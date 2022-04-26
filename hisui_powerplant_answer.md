@@ -16,8 +16,13 @@ Step 1: Gather given information to solve for missing information:
 - [x] Thunderbolt is the most efficient move due to high voltage and PP
 - [x] Voltorbs can only learn Thunderbolt through TM
 - [x] There needs to be a consistent amount of electricity being transferred to power the village
-- [x] Assume we are taking average Voltorb(s)
-- [ ] Assume electricity potential is based 
+- [x] Assume we are taking average, run-of-the-mill Voltorb(s) and not legendaries, pseudo-legendaries or mythicals
+- [x] Assume electricity potential is based on the type of electric moves (for example: discharge, thunder punch, electro ball, thunderbolt)
+- [x] The best move that would generate electricity efficiently without burning or wrecking the power plant would be Thunderbolt
+      - According to the show, thunderbolt only causes paralysis or loss of consciousness 
+      - When Pikachu uses thunderbolt, it generates 100,000 volts of electricity (we can use Pikachu as a reference since its frame and stats are closely similar to a Voltorb)
+      - Since figuring out the current is equally important, let's assume the ratio of natural lightning’s voltage to a Pokemon's thunderbolt voltage is the same value as the current. Natural lightning is 3M volts and 30kAmps. Thunderbolt has a voltage of 100kV, a current of 10Amps, resulting in a power of 1MW  
+- [ ] 
 
 *What needs to be solved:*
 - [ ] How much electricity does Thunderbolt produce?
@@ -25,7 +30,7 @@ Step 1: Gather given information to solve for missing information:
 
 Step 2: Some math to get an accurate measurement:
 
-Step 3: Final Result:
+Step 3: Final Result (w/ different solutions):
 
 Step 4: Consider possibilities/risks:
 - For the sake of redundancy, in case one or more of the Voltorbs is unusable for whatever reason (out of PP, got KO'd by another Voltorb, "accidentally" 
