@@ -11,13 +11,14 @@ However, they are uncommon and are only found in the Sacred Plaza.
 Objective: How many Voltorbs will you need to catch to fully power the village. Describe each step in your thought process.
 
 Step 1: Gather given information to solve for missing information:
-What we know:
+
+*What we know:*
 - [x] Thunderbolt is the most efficient move due to high voltage and PP
 - [x] Voltorbs can only learn Thunderbolt through TM
 - [x] There needs to be a consistent amount of electricity being transferred to power the village
 - [x] 
 
-What needs to be solved:
+*What needs to be solved:*
 - [ ] How much electricity does Thunderbolt produce?
 - [ ] How much electricity does it take to power Jubilife village for a day?
 
