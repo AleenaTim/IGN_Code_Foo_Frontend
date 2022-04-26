@@ -21,8 +21,14 @@ What needs to be solved:
 - [ ] How much electricity does Thunderbolt produce?
 - [ ] How much electricity does it take to power Jubilife village for a day?
 
-Step 4: Consider possibilities
+Step 2: Some math to get an accurate measurement:
+
+Step 3: Final Result:
+
+Step 4: Consider possibilities/risks
 - For the sake of redundancy, in case one or more of the Voltorbs is unusable for whatever reason (out of PP, got KO'd by another Voltorb, "accidentally" 
-self-destruct or escaped), we can have at most 24 Voltorbs and each individual Voltorob will alternate for 1 hour of the day giving the other Voltorbs a 
+self-destruct or escaped), we can have at most 24 Voltorbs and each individual Voltorb will alternate for 1 hour of the day giving the other Voltorbs a 
 chance to recover and have their own free time as well (because we are a humane society of pokemon trainers/researchers).
+- Batteries can be effective at containing electricity in case of emergencies
+- Risk of Voltorbs self-destructing randomly so they need careful and extreme supervision
 - 
