@@ -1,4 +1,6 @@
-2. Hisui's New Power Plant
+
+**Hisui's New Power Plant**
+
 Requested By: Professor Laventon
 
 The Galaxy Team has decided that in order to advance the research on Pokemon and the Pokedex, Jubilife village needs a brand new power plant. 
@@ -8,9 +10,19 @@ However, they are uncommon and are only found in the Sacred Plaza.
 
 Objective: How many Voltorbs will you need to catch to fully power the village. Describe each step in your thought process.
 
-Step 1: Gather given information and missing information:
-Given
+Step 1: Gather given information to solve for missing information:
+What we know:
+- [x] Thunderbolt is the most efficient move due to high voltage and PP
+- [x] Voltorbs can only learn Thunderbolt through TM
+- [x] There needs to be a consistent amount of electricity being transferred to power the village
+- [x] 
+
+What needs to be solved:
+- [ ] How much electricity does Thunderbolt produce?
+- [ ] How much electricity does it take to power Jubilife village for a day?
 
 Step 4: Consider possibilities
-For the sake of redundancy, in case one or more of the Voltorbs is unusable for whatever reason (out of PP, got KO'd by another Voltorb or escaped), 
-we can have at most 24 Voltorbs for each hour of the day giving Voltorbs a chance to recover and have it's own free time as well.
+- For the sake of redundancy, in case one or more of the Voltorbs is unusable for whatever reason (out of PP, got KO'd by another Voltorb, "accidentally" 
+self-destruct or escaped), we can have at most 24 Voltorbs and each individual Voltorob will alternate for 1 hour of the day giving the other Voltorbs a 
+chance to recover and have their own free time as well (because we are a humane society of pokemon trainers/researchers).
+- 
