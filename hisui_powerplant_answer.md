@@ -28,8 +28,8 @@ Step 1: Gather given information to solve for missing information:
 - [x] 
 
 *What needs to be solved:*
-- [?] How much electricity does Thunderbolt produce?
-- [?] How much electricity does it take to power Jubilife village for a day?
+- [ ] How much electricity does Thunderbolt produce?
+- [ ] How much electricity does it take to power Jubilife village for a day?
 
 Step 2: Some math to get an accurate measurement:
 
