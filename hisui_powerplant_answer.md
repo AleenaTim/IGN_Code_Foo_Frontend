@@ -16,7 +16,8 @@ Step 1: Gather given information to solve for missing information:
 - [x] Thunderbolt is the most efficient move due to high voltage and PP
 - [x] Voltorbs can only learn Thunderbolt through TM
 - [x] There needs to be a consistent amount of electricity being transferred to power the village
-- [x] 
+- [x] Assume we are taking average Voltorb(s)
+- [ ] Assume electricity potential is based 
 
 *What needs to be solved:*
 - [ ] How much electricity does Thunderbolt produce?
