@@ -20,13 +20,16 @@ Step 1: Gather given information to solve for missing information:
 - [x] Assume electricity potential is based on the type of electric moves (for example: discharge, thunder punch, electro ball, thunderbolt)
 - [x] The best move that would generate electricity efficiently without burning or wrecking the power plant would be Thunderbolt
       - According to the show, thunderbolt only causes paralysis or loss of consciousness 
-      - When Pikachu uses thunderbolt, it generates 100,000 volts of electricity (we can use Pikachu as a reference since its frame and stats are closely similar to a Voltorb)
-      - Since figuring out the current is equally important, let's assume the ratio of natural lightning’s voltage to a Pokemon's thunderbolt voltage is the same value as the current. Natural lightning is 3M volts and 30kAmps. Thunderbolt has a voltage of 100kV, a current of 10Amps, resulting in a power of 1MW  
-- [ ] 
+      - When Pikachu uses thunderbolt, it generates 100,000 volts of electricity (we can use Pikachu as a reference since its frame and stats are closely 
+        similar to a Voltorb)
+      - Since figuring out the current is equally important, let's assume the ratio of natural lightning’s voltage to a Pokemon's thunderbolt voltage is 
+        the same value as the current. Natural lightning is 3M volts and 30kAmps. Thunderbolt has a voltage of 100kV, a current of 10Amps, resulting in a 
+        power of 1MW  
+- [x] 
 
 *What needs to be solved:*
-- [ ] How much electricity does Thunderbolt produce?
-- [ ] How much electricity does it take to power Jubilife village for a day?
+- [?] How much electricity does Thunderbolt produce?
+- [?] How much electricity does it take to power Jubilife village for a day?
 
 Step 2: Some math to get an accurate measurement:
 
