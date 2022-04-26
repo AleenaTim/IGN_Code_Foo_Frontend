@@ -26,7 +26,7 @@ Step 2: Some math to get an accurate measurement:
 
 Step 3: Final Result:
 
-Step 4: Consider possibilities/risks
+Step 4: Consider possibilities/risks:
 - For the sake of redundancy, in case one or more of the Voltorbs is unusable for whatever reason (out of PP, got KO'd by another Voltorb, "accidentally" 
 self-destruct or escaped), we can have at most 24 Voltorbs and each individual Voltorb will alternate for 1 hour of the day giving the other Voltorbs a 
 chance to recover and have their own free time as well (because we are a humane society of pokemon trainers/researchers).
