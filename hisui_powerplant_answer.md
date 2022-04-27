@@ -13,7 +13,7 @@ Objective: How many Voltorbs will you need to catch to fully power the village. 
 **Step 1: Gather given information to solve for missing information:**
 
 *What we know:*
-- [x] Thunderbolt is the most efficient move due to high voltage and PP
+- [x] Thunderbolt is the most efficient move due to high voltage and a starting PP of 15
 - [x] Voltorbs can only learn Thunderbolt through TM
 - [x] There needs to be a consistent amount of electricity being transferred to power the village
 - [x] Assume we are taking average, run-of-the-mill Voltorb(s) and not legendaries, pseudo-legendaries or mythicals
@@ -42,5 +42,5 @@ Objective: How many Voltorbs will you need to catch to fully power the village. 
 self-destruct or escaped), we can have at most 24 Voltorbs and each individual Voltorb will alternate for 1 hour of the day giving the other Voltorbs a 
 chance to recover and have their own free time as well (because we are a humane society of pokemon trainers/researchers).
 - Batteries can be effective at containing electricity in case of emergencies
-- Risk of Voltorbs self-destructing randomly so they need careful and extreme supervision
+- Risk of Voltorbs self-destructing randomly so they need extreme supervision
 - 
