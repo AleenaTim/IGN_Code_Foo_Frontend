@@ -25,13 +25,16 @@ Step 1: Gather given information to solve for missing information:
       - Since figuring out the current is equally important, let's assume the ratio of natural lightning’s voltage to a Pokemon's thunderbolt voltage is 
         the same value as the current. Natural lightning is 3M volts and 30kAmps. Thunderbolt has a voltage of 100kV, a current of 10Amps, resulting in a 
         power of 1MW  
-- [x] 
+- [x] 1MW = 1000KW
 
-*What needs to be solved:*
-- [ ] How much electricity does Thunderbolt produce?
-- [ ] How much electricity does it take to power Jubilife village for a day?
 
-Step 2: Some math to get an accurate measurement:
+Step 2: Some math to get an estimated measurement:
+- [ ] How much electricity does it take to fully power Jubilife village?
+      - On average, it takes around 1.8KW to fully power a village. If we were to consider the lack of electricity usage in Jubilife's village sublocations,
+        it would take way less electricity but we will use 1.8KW as our baseline
+      - Need to calculate the ratio to find how many MW it takes to fully power the village: (1MW/1000KW) = (x/1.8KW) => x = 0.0018MW
+- [ ] 
+
 
 Step 3: Final Result (w/ different solutions):
 
