@@ -29,12 +29,12 @@ Objective: How many Voltorbs will you need to catch to fully power the village. 
 
 **Step 2: Some math to get an estimated measurement:**
 - [ ] How much electricity does it take to fully power Jubilife village?
-      - According to National Geographic, what classifies something as a village is "a small settlement usually found in a rural setting. It is 
+- According to National Geographic, what classifies something as a village is "a small settlement usually found in a rural setting. It is 
         generally larger than a "hamlet" but smaller than a "town". Some geographers specifically define a village as having between 500 and 2,500 
         inhabitants.". On average, it takes around 1.8KW to fully power a village. If we were to consider the lack of electricity usage in Jubilife's 
         village sublocations, it would take way less electricity but we will use 1.8KW as our baseline.
-      - Need to calculate the ratio to find how many MW it takes to fully power the village: (1MW/1000KW) = (x/1.8KW) => x = 0.0018MW
-      - Based on the question, it doesn't have a specific duration for how much electricity it takes to fully power Jubilife village so the answer would just
+- Need to calculate the ratio to find how many MW it takes to fully power the village: (1MW/1000KW) = (x/1.8KW) => x = 0.0018MW
+- Based on the question, it doesn't have a specific duration for how much electricity it takes to fully power Jubilife village so the answer would just
         be 1 Voltorb.
 
 **Step 3: Final Result (w/ different solutions):**
