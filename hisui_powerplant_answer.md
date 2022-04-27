@@ -27,15 +27,13 @@ Objective: How many Voltorbs will you need to catch to fully power the village. 
   power of 1MW  
 - [x] 1MW = 1000KW
 
-**Step 2: Some math to get an estimated measurement:**
+**Step 2: Some quick math & final result:**
 
 Q: How much electricity does it take to fully power Jubilife village?
 - According to National Geographic, what classifies something as a village is "a small settlement usually found in a rural setting. It is generally larger than a "hamlet" but smaller than a "town". Some geographers specifically define a village as having between 500 and 2,500 inhabitants.". On average, it takes around 1.8KW to fully power a village. If we were to consider the lack of electricity usage in Jubilife's village sublocations, it would take way less electricity but we will use 1.8KW as our baseline.
 - Need to calculate the ratio to find how many MW it takes to fully power the village: (1MW/1000KW) = (x/1.8KW) => x = 0.0018MW
 - Based on the question, it doesn't have a specific duration for how much electricity it takes to fully power Jubilife village so the answer would just
-        be 1 Voltorb.
-
-**Step 3: Final Result (w/ different solutions):**
+        be **1 Voltorb**.
 
 **Step 4: Consider possibilities/risks:**
 - For the sake of redundancy, in case one or more of the Voltorbs is unusable for whatever reason (out of PP, got KO'd by another Voltorb, "accidentally" 
@@ -43,4 +41,3 @@ self-destruct or escaped), we can have at least 2 Voltorbs (the more, the merrie
 chance to recover and have their own free time as well (because we are a humane society of pokemon trainers/researchers).
 - Batteries can be effective at containing electricity in case of emergencies
 - Risk of Voltorbs self-destructing randomly so they need extreme supervision
-- 
