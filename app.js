@@ -14,7 +14,7 @@ function runApp() {
       $("#firstvid").append(`
       <div class="video-player">
           <video id="myVideo" poster="${info.data[0].thumbnails[2].url}">
-					<source src="${info.data[0].assets[3].url}" type="video/mp4" class="video">    
+	  <source src="${info.data[0].assets[3].url}" type="video/mp4" class="video">    
           </video>
           <!--Buttons-->
           <div class="player-controls">
@@ -26,7 +26,7 @@ function runApp() {
           <button id="volumeLow" class="hidden"><i class="fa fa-volume-down"></i></button>
           <button id="volumeHigh"><i class="fa fa-volume-up"></i></button>
           <input type="range" class="volume" min="0" max="1" step="0.01" value=".5"/>
-          <button id="skipBackward" class="noClick"><i class="fa fa-step-backward"></i></button>
+          <button id="skipBackward"><i class="fa fa-step-backward"></i></button>
           <button id="btnPlay"><i class="fa fa-play-circle-o"></i></button>
           <button id="btnPause" class="hidden"><i class="fa fa-pause-circle-o"></i></button>
           <button id="skipForward"><i class="fa fa-step-forward"></i></button>   
@@ -112,13 +112,10 @@ function runApp() {
       function nextVideo() {
         listVideo[vidPlaying].classList.remove("active");
         if (vidPlaying < vidUrl.length - 1) {
-          skipBackward.classList.remove("noClick");
           clearInterval(timer);
           vidPlaying++;
         } else {
           vidPlaying = 0;
-          skipBackward.classList.add("noClick");
-          skipForward.classList.remove("noClick");
         }
         setVid();
       }
@@ -129,7 +126,7 @@ function runApp() {
           vidPlaying--;
         }
         else {
-          skipBackward.classList.add("noClick");
+          vidPlaying = vidUrl.length - 1;
         }
         setVid();
       }
