@@ -10,7 +10,7 @@ However, they are uncommon and are only found in the Sacred Plaza.
 
 Objective: How many Voltorbs will you need to catch to fully power the village. Describe each step in your thought process.
 
-Step 1: Gather given information to solve for missing information:
+**Step 1: Gather given information to solve for missing information:**
 
 *What we know:*
 - [x] Thunderbolt is the most efficient move due to high voltage and PP
@@ -27,7 +27,7 @@ Step 1: Gather given information to solve for missing information:
   power of 1MW  
 - [x] 1MW = 1000KW
 
-Step 2: Some math to get an estimated measurement:
+**Step 2: Some math to get an estimated measurement:**
 - [ ] How much electricity does it take to fully power Jubilife village?
       - On average, it takes around 1.8KW to fully power a village. If we were to consider the lack of electricity usage in Jubilife's village sublocations,
         it would take way less electricity but we will use 1.8KW as our baseline
@@ -35,9 +35,9 @@ Step 2: Some math to get an estimated measurement:
 - [ ] 
 
 
-Step 3: Final Result (w/ different solutions):
+**Step 3: Final Result (w/ different solutions):**
 
-Step 4: Consider possibilities/risks:
+**Step 4: Consider possibilities/risks:**
 - For the sake of redundancy, in case one or more of the Voltorbs is unusable for whatever reason (out of PP, got KO'd by another Voltorb, "accidentally" 
 self-destruct or escaped), we can have at most 24 Voltorbs and each individual Voltorb will alternate for 1 hour of the day giving the other Voltorbs a 
 chance to recover and have their own free time as well (because we are a humane society of pokemon trainers/researchers).
