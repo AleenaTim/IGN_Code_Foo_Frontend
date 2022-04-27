@@ -2,10 +2,6 @@
 .hidden {
     display: none;
 }
-.noClick{
-  pointer-events: none;
-  color: grey;
-}
 .video-player {
   max-width: 100%;
   position: relative;
