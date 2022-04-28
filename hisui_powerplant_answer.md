@@ -18,7 +18,7 @@ Objective: How many Voltorbs will you need to catch to fully power the village. 
 - [x] There needs to be a consistent amount of electricity being transferred to power the village
 - [x] Assume we are taking average, run-of-the-mill Voltorb(s) and not legendaries, pseudo-legendaries or mythicals
 - [x] Assume electricity potential is based on the type of electric moves (for example: discharge, thunder punch, electro ball, thunderbolt)
-- [x] The best move that would generate electricity efficiently without burning or wrecking the power plant would be Thunderbolt
+- [x] The best move that would generate electricity efficiently without burning or damaging the village would be Thunderbolt
 - According to the show, thunderbolt only causes paralysis or loss of consciousness 
 - When Pikachu uses thunderbolt, it generates 100,000 volts of electricity (we can use Pikachu as a reference since its frame and stats are closely 
   similar to a Voltorb)
@@ -32,12 +32,23 @@ Objective: How many Voltorbs will you need to catch to fully power the village. 
 Q: How much electricity does it take to fully power Jubilife village?
 - According to National Geographic, what classifies something as a village is "a small settlement usually found in a rural setting. It is generally larger than a "hamlet" but smaller than a "town". Some geographers specifically define a village as having between 500 and 2,500 inhabitants.". On average, it takes around 1.8KW to fully power a village. If we were to consider the lack of electricity usage in Jubilife's village sublocations, it would take way less electricity but we will use 1.8KW as our baseline.
 - Need to calculate the ratio to find how many MW it takes to fully power the village: (1MW/1000KW) = (x/1.8KW) => x = 0.0018MW
-- Based on the question, it doesn't have a specific duration for how much electricity it takes to fully power Jubilife village so the answer would just
-        be **1 Voltorb**.
+- Based on the question, it doesn't have a specific duration for how much electricity it takes to fully power Jubilife village so the answer would just be **1 Voltorb**.
+- If we were to fully power the whole village for 1 day:
+
+1 day = 86400 seconds
+
+Thunderbolt can be channeled for a maximum of 5 seconds then uses up 1 PP
+
+86400 sec / 5 = 17280 times
+
+17280 * 0.0018MW = 31.104MW
+
+Each Voltorb can generate a maximum of 15MW until it uses up all its PP. With a minimum of **3 Voltorbs**, you can generate 45MW in total to keep Jubilife village powered for a day.
+
 
 **Step 4: Consider possibilities/risks:**
 - For the sake of redundancy, in case one or more of the Voltorbs is unusable for whatever reason (out of PP, got KO'd by another Voltorb, "accidentally" 
-self-destruct or escaped), we can have at least 2 Voltorbs (the more, the merrier) and each individual Voltorb will alternate giving the other Voltorb a 
+self-destruct or escaped), we can have at least 3 Voltorbs (the more, the merrier) and each individual Voltorb will alternate giving the other Voltorb a 
 chance to recover and have their own free time as well (because we are a humane society of pokemon trainers/researchers).
 - Batteries can be effective at containing electricity in case of emergencies
 - Risk of Voltorbs self-destructing randomly so they need extreme supervision
