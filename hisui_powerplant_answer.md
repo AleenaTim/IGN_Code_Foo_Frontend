@@ -46,7 +46,7 @@ Thunderbolt can be channeled for a maximum of 5 seconds then uses up 1 PP
 Each Voltorb can generate a maximum of 15MW until it uses up all its PP. With a minimum of **3 Voltorbs**, you can generate 45MW in total to keep Jubilife village powered for a day.
 
 
-**Step 4: Consider possibilities/risks:**
+**Step 3: Consider possibilities/risks:**
 - For the sake of redundancy, in case one or more of the Voltorbs is unusable for whatever reason (out of PP, got KO'd by another Voltorb, "accidentally" 
 self-destruct or escaped), we can have at least 3 Voltorbs (the more, the merrier) and each individual Voltorb will alternate giving the other Voltorb a 
 chance to recover and have their own free time as well (because we are a humane society of pokemon trainers/researchers).
