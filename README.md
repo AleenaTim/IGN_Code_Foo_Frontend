@@ -6,5 +6,6 @@ Files required for app to run properly:
 - `style.css`
 - `IGN-Logo.png`
 
-After downloading the files, simply run `index.html` (preferably on Chrome browser for best user experience) 
+After downloading the files, simply run `index.html` (preferably on Chrome browser for best user experience)
+ 
 (You can also view it live here: https://video-playlist-aleena-tim.glitch.me/)
